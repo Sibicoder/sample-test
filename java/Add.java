@@ -1,4 +1,5 @@
 class Add {
+ //Addtion values
  public static void main(String[] args)
  {
    System.out.println("Adding two numbers");
@@ -6,3 +7,4 @@ class Add {
    System.out.println("Sum is " + a + b);
  }
 }
+

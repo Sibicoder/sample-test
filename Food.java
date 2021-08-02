@@ -1,4 +1,4 @@
 class Food
 {
-  Ststem . out print("food details");
+  System . out print("food details");
 }

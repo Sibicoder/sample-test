@@ -3,7 +3,7 @@ class Eb
   int homeno ;
   String address;
  
-
+//create main
 
 public static void main(String argc[])
 {

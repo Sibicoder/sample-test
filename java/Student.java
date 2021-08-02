@@ -1,4 +1,5 @@
 class Student
+  //Class name
 {
   int rollno;
   String name;
